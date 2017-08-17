@@ -5,9 +5,9 @@ var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>
 window.onload = function () {
 	var e = document.getElementById("adleftcredit");
 	if (e == null) {
-		window.location.href = "http://arlinadesign.blogspot.com"
+		window.location.href = "http://trx46.blogspot.com"
 	}
-	e.setAttribute("href", "http://arlinadesign.blogspot.com/");
+	e.setAttribute("href", "http://trx46.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "Arlina Design"
+	e.innerHTML = "Trx46"
 }
